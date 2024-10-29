@@ -5,6 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vidura-12&label=Profile%20views&color=0e75b6&style=flat" alt="vidura-12" /> </p>
 [![Vidura's GitHub stats](https://github-readme-stats.vercel.app/api?username=vidura-12&theme=dracula)](https://github.com/vidura-12)
+[![Avneesh's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vidura-12&theme=dracula&layout=compact)](https://github.com/vidura-12)
 
 
 <h3 align="left">Connect with me:</h3>
