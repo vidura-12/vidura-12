@@ -7,12 +7,12 @@
 
 ### 📊 My GitHub Stats:
 <br/>
-<br>
+
 ![Vidura's GitHub stats](https://github-readme-stats.vercel.app/api?username=vidura-12&show_icons=true&theme=radical) <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Vidura's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidura-12&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vidura-12&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-<img align="right" alt="GIF" src="https://github.com/bhumikatewary/bhumikatewary/blob/main/giphy.gif" width="500" height="320" />
-<br/>
+<br>
+
 <br>
 
 
