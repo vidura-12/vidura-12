@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Vidura Nirmal</h1>
+<hr>
+<h1 align="center">𝐇𝐞𝐥𝐥𝐨, <𝚌𝚘𝚍𝚎𝚛𝚜<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+<br>
 <h3 align="center">A Software Engineering Undergraduate from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vidura-12&label=Profile%20views&color=0e75b6&style=flat" alt="vidura-12" /> </p>
