@@ -4,8 +4,14 @@
 <h3 align="center">A Software Engineering Undergraduate from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vidura-12&label=Profile%20views&color=0e75b6&style=flat" alt="vidura-12" /> </p>
-[![Vidura's GitHub stats](https://github-readme-stats.vercel.app/api?username=vidura-12&theme=dracula)](https://github.com/vidura-12)
-[![Avneesh's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vidura-12&theme=dracula&layout=compact)](https://github.com/vidura-12)
+### 📊 My GitHub Stats:
+<br/>
+
+![Vidura's GitHub stats](https://github-readme-stats.vercel.app/api?username=vidura-12&show_icons=true&theme=radical) <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Vidura's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidura-12&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vidura-12&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<br>
+
 
 
 <h3 align="left">Connect with me:</h3>
